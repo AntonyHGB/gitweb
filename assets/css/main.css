@@ -1,3 +1,19 @@
+/*
+=================================================================
+ESTILOS PRINCIPAIS - PORTFÓLIO PROFISSIONAL
+=================================================================
+Arquivo: assets/css/main.css
+Descrição: Folha de estilos principal compilada a partir dos 
+arquivos SASS e conforme o pré-processador. Contém toda a 
+estilização responsiva, animações CSS e layout do portfólio.
+
+Recursos: Responsividade mobile-first, animações de fundo rolante,
+gradientes e efeitos visuais. Importa FontAwesome para ícones.
+
+Template Base: Aerial by HTML5 UP
+=================================================================
+*/
+
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 

@@ -1,3 +1,19 @@
+/*
+=================================================================
+ESTILOS FALLBACK - ARQUIVO SASS (SEM JAVASCRIPT)
+=================================================================
+Arquivo: assets/sass/noscript.scss
+Descrição: Arquivo SASS que compila para noscript.css. Define 
+estilos alternativos para quando JavaScript está desabilitado. 
+Garante acessibilidade e funcionalidade do site.
+
+Importa: Bibliotecas compartilhadas SASS (_vars, _functions, 
+_mixins, _vendor, _breakpoints).
+
+Template Base: Aerial by HTML5 UP
+=================================================================
+*/
+
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';

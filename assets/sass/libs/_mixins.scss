@@ -1,3 +1,10 @@
+/* 
+   Arquivo: assets/sass/libs/_mixins.scss
+   Descrição: Define mixins SASS que encapsulam blocos de
+   estilos reutilizáveis (responsividade, ícones, vendors,
+   etc). Reduz duplicação de código e melhora manutenção.
+*/
+
 /// Makes an element's :before pseudoelement a FontAwesome icon.
 /// @param {string} $content Optional content value to use.
 /// @param {string} $category Optional category to use.
