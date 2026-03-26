@@ -1,0 +1,46 @@
+# IDE e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Node.js (se usar npm scripts)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependências Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+venv/
+env/
+
+# Build e Compilação
+dist/
+build/
+.cache/
+
+# Arquivos compilados SASS
+*.css.map
+
+# Logs
+logs/
+*.log
+
+# Arquivos temporários do OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local

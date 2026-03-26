@@ -1,3 +1,23 @@
+/*
+=================================================================
+ESTILOS PRINCIPAIS - ARQUIVO SASS
+=================================================================
+Arquivo: assets/sass/main.scss
+Descrição: Arquivo SASS principal que compila para main.css. 
+Organiza toda a estilização responsiva, animações de background 
+rolante e layout do portfólio através de variáveis, mixins e 
+arquivos de biblioteca.
+
+Estrutura: Importa bibliotecas SASS (_vars, _functions, _mixins, 
+_vendor, _breakpoints) e define estilos usando preprocessador.
+
+Para editar: Modifique este arquivo, depois compile com:
+$ scss assets/sass/main.scss assets/css/main.css
+
+Template Base: Aerial by HTML5 UP
+=================================================================
+*/
+
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
